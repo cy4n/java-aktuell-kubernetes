@@ -23,3 +23,8 @@ zur Demo und zum Üben empfiehlt sich Minikube oder docker-for-desktop
 
 ## Erweiterung 1 - readiness und liveness checks
 * deployment-health.yml
+
+## Erweiterung 2 - configmap und volume mit application.yml für springboot app
+* config.yml
+* deployment-volume.yml
+
