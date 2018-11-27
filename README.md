@@ -20,3 +20,6 @@ zur Demo und zum Üben empfiehlt sich Minikube oder docker-for-desktop
 * deployment.yml
 * service.yml
 * ingress.yml
+
+## Erweiterung 1 - readiness und liveness checks
+* deployment-health.yml
