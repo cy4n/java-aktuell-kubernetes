@@ -28,3 +28,7 @@ zur Demo und zum Üben empfiehlt sich Minikube oder docker-for-desktop
 * config.yml
 * deployment-volume.yml
 
+## Erweiterung 3 - secrets als Environment-Variablen im pod
+* secret.yml
+* deployment-env.yml
+
